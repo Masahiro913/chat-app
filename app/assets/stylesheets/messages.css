@@ -1,0 +1,43 @@
+.wrapper{
+  display: flex;
+}
+
+.side-bar{
+  width: 300px;
+  background-color: #253141;
+  height: 100vh;
+  padding: 0 20px;
+}
+
+.chat{
+  width: calc(100vw - 300px);
+  background-color: #ffffff;
+  padding: 0 40px;
+}
+
+.side_top{
+  background-color: #253141;
+  height: 100px;
+}
+
+.side{
+  background-color: #2f3e51;
+  height: calc(100vh - 100px);
+}
+
+.main_top{
+  background-color: #ffffff;
+  height: 100px;
+  margin-bottom: ]46px;
+}
+
+.main_middle{
+  background-color: #fafafa;
+  height: calc(100vh - 190px);
+}
+
+.main_form{
+  background-color: #dddddd;
+  height: 90px;
+  padding: 20px 0;
+}
